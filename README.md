@@ -9,8 +9,7 @@ Pretty much *everything*
 *Continental, Indian*
 ### Contact
 Mail me @ roydextered@gmail.com
-'''
+```
 coding is fun, yeah?
 penny for a thought?
-'''
-
+```
